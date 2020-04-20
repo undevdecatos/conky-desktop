@@ -1,7 +1,7 @@
 # conky-desktop
 This is a pre-set configuration for conky for Linux users to customize their desktops
 
-#installation
+# installation
 
 For debian based systems like ubuntu, mint, elementary os..etc
 Run the following commands:
